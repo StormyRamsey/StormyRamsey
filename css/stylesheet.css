@@ -55,18 +55,28 @@ h3 {
 }
 
 .contact-text{
-	font-size: 40px;
+	font-size: 50px;
 }
 
 p { font-size: 20px;
 }
 
 .logo{
+
+	margin-top: 8px;
 	padding-top:30px;
 }
 
+.logo-img{
+	padding-top:20px;
+}
+
 .page-logo{
+	height: 100px;
+	margin-top: 30px;
+	padding-top:30px;
 	margin: auto;
+
 }
 
 .job-title {
@@ -87,9 +97,8 @@ p { font-size: 20px;
 	margin: auto;
 	font-size: 20px;
 	color:#000;
-	padding-top:30px;
-	word-spacing:10px;
-
+	padding-top: 30px;
+	word-spacing: 10px;
 }
 
 a {
