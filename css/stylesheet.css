@@ -1,10 +1,10 @@
 
-body { 
+body {
 	margin: 0;
 display: flex;
 text-align: center;
 font-family: 'Lato', sans-serif;
-    
+
 }
 
 .part-a {
@@ -18,14 +18,13 @@ font-family: 'Lato', sans-serif;
 }
 
 .part-b {
-	background-color: #df5555; 
+	background-color: #df5555;
 	min-height: 700px;
 	width: 33.33%;
-	
 }
 
 .part-c {
-	background-color: #8f163f; 
+	background-color: #8f163f;
 	min-height: 700px;
 	width: 33.33%;
 	display: flex;
@@ -34,60 +33,110 @@ font-family: 'Lato', sans-serif;
 }
 
 h1 {
-	
 	text-align: center;
-
 }
 
-h2 { font-size: 45px; 
+h2 { font-size: 35px;
 	margin: 80px auto auto auto;
 }
 
-.intro{
+h3 {
+	font-size: 40px;
+}
 
-	width: 200px;
+.intro{
+	width: 300px;
 	height: 200px;
 	margin: auto;
+	padding-bottom:21px;
+}
+.text-intro{
+	font-size: 25px;
 }
 
-p { font-size: 20px; }
-
-.name {
-	width: 100px;
-	height:80px;
-background-color: #000;
-margin: auto; 
-
+.contact-text{
+	font-size: 40px;
 }
 
-.letter-s {
-	color:#8f163f;
-	font-size: 55px;
-	margin:auto;
+p { font-size: 20px;
 }
 
-.letter-r {
-	color:#c93434;
-	font-size: 55px;
-	margin:auto;
+.logo{
+	padding-top:30px;
+}
+
+.page-logo{
+	margin: auto;
 }
 
 .job-title {
 	margin: auto;
-
 }
 
 .nav {
-	width: 300px;
-	height: 200px;
+	width: 350px;
+	margin: auto;
+	margin-top:265px;
+	font-size: 20px;
+	color:#000;
+	word-spacing: 8px;
+}
+
+.page-nav{
+	width: 350px;
 	margin: auto;
 	font-size: 20px;
 	color:#000;
-	
+	padding-top:30px;
+	word-spacing:10px;
+
 }
 
 a {
 	text-decoration: none;
 	color:#000;
-	word-spacing: 5px;
+	word-spacing: 8px;
+	font-size: 20px;
+}
+
+a:hover{
+	color:#32CD32;
+}
+
+.about-back{
+background-color: #c93434;
+}
+
+.work-back{
+	background-color: #8f163f;
+}
+
+.contact-back{
+background-color: #df5555;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+}
+
+.text-about{
+	width:850px;
+	display: flex;
+}
+
+.work-about{
+	width:850px;
+	display: flex;
+}
+
+.email-button {
+	font-size: 20px;
+  border: 2px #8f163f;
+  border-radius: 8px;
+	background-color: #c93434;
+  color: #FFF;
+	width: 200px;
+  height: 50px;
 }
