@@ -140,9 +140,8 @@ background-color: #df5555;
 	border: 2px solid #000;
 }
 
-.work-about{
-	width:850px;
-	display: flex;
+.social-icons{
+	margin-top: 300px;
 }
 
 .email-button {
