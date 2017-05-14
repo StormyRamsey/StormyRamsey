@@ -76,7 +76,6 @@ p { font-size: 20px;
 	margin-top: 30px;
 	padding-top:30px;
 	margin: auto;
-
 }
 
 .job-title {
@@ -109,7 +108,7 @@ a {
 }
 
 a:hover{
-	color:#32CD32;
+	color:#1e90ff;
 }
 
 .about-back{
@@ -130,9 +129,15 @@ background-color: #df5555;
 	margin: auto;
 }
 
-.text-about{
-	width:850px;
+.cont-about{
 	display: flex;
+	flex-direction: column;
+}
+.text-about{
+	width:	550px;
+}
+.avatar{
+	border: 2px solid #000;
 }
 
 .work-about{
