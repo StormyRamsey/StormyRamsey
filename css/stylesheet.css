@@ -58,7 +58,7 @@ h3 {
 	font-size: 50px;
 }
 
-p { font-size: 20px;
+p {font-size: 20px;
 }
 
 .logo{
@@ -111,6 +111,7 @@ a:hover{
 	color:#1e90ff;
 }
 
+
 .about-back{
 background-color: #c93434;
 }
@@ -143,7 +144,9 @@ background-color: #df5555;
 .social-icons{
 	margin-top: 300px;
 }
-
+.social{
+	margin: 40px;
+}
 .email-button {
 	font-size: 20px;
   border: 2px #8f163f;
@@ -152,4 +155,15 @@ background-color: #df5555;
   color: #FFF;
 	width: 200px;
   height: 50px;
+}
+
+.skills{
+width: 700px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.sImg{
+	padding: 20px;
 }

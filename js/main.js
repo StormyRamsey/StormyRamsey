@@ -1,6 +1,3 @@
 $(document).ready(function(){
-
-    $("a").click(function(){
-        $(".nav-bar").fadeIn("slow");
-    });
+  $("p").fadeIn(1000);
 });
