@@ -134,7 +134,8 @@ background-color: #df5555;
 	flex-direction: column;
 }
 .text-about{
-	width:	550px;
+	width:	750px;
+	word-spacing: 3px;
 }
 .avatar{
 	border: 2px solid #000;
