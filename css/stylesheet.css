@@ -176,6 +176,7 @@ background-color: #df5555;
 padding: 20px;
 }
 .p-text{
+	width: 750px;
 	font-size: 18px;
 	position: relative;
 }
