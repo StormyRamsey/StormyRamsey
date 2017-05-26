@@ -50,11 +50,13 @@ h3 {
 	width: 300px;
 	height: 100px;
 	margin-bottom: 400px;
+	margin-left: auto;
 	padding-left: 60px;
 }
 .text-intro{
 	font-size: 25px;
-	margin: auto;
+	margin:auto;
+
 }
 
 .contact-text{
