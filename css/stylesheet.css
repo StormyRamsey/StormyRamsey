@@ -2,17 +2,15 @@ html{
 	background-color: #df5555;
 }
 
-body {
+body{
 	margin: 0;
 	display: flex;
 	text-align: center;
 	font-family: 'Lato', sans-serif;
-	min-height: 1024px;
 }
 
 .part-a {
 	background-color: #c93434;
-	min-height: 1024px;
 	width: 33.33%;
 	display: flex;
 	flex-direction: column;
@@ -22,13 +20,12 @@ body {
 
 .part-b {
 	background-color: #df5555;
-	min-height: 1024px;
 	width: 33.33%;
 }
 
 .part-c {
 	background-color: #8f163f;
-	min-height: 1024px;
+
 	width: 33.33%;
 	display: flex;
 	flex-direction: column;
@@ -125,6 +122,7 @@ background-color: #c93434;
 
 .contact-back{
 background-color: #df5555;
+
 }
 
 .container{
@@ -132,7 +130,12 @@ background-color: #df5555;
 	flex-direction: column;
 	margin: auto;
 }
-
+.contact-container{
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	margin-bottom: 600px;
+}
 .cont-about{
 	display: flex;
 	flex-direction: column;
@@ -148,6 +151,12 @@ background-color: #df5555;
 .social-icons{
 	margin-top: 600px;
 }
+
+.contact-social{
+	margin-top:200px;
+
+}
+
 .social{
 	margin: 40px;
 }
