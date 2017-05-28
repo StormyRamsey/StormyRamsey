@@ -263,6 +263,7 @@ flex-direction: column;
 
 	body{
 		max-height: 100%;
+		max-width: 525px;
 	}
 	.navbar, p{
 		font-size: 140%;
