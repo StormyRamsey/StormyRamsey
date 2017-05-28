@@ -200,7 +200,7 @@ a:hover >.wImg{
 .gitImg{
 	margin: 15px;
 }
-
+// working through the responsive issues
 @media only screen and (max-width: 1350px) {}
 @media only screen and (max-width: 1200px) {}
 @media only screen and (max-width: 1024px) {}
