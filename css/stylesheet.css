@@ -219,7 +219,12 @@ a:hover >.wImg{
 
 body{
 	max-height: 100%;
-	font-size: 1em;
+}
+.navbar, p{
+	font-size: 140%;
+}
+h2{
+	font-size: 300%;
 }
 #body-index{
 display: flex;
@@ -254,7 +259,6 @@ flex-direction: column;
 @media only screen and (min-width : 321px) {
 	body{
 		max-height: 100%;
-		font-size: 1em;
 	}
 	#body-index{
 	display: flex;
@@ -289,7 +293,6 @@ flex-direction: column;
 @media only screen and (max-width : 320px) {
 	body{
 		max-height: 100%;
-		font-size: 1em;
 	}
 	#body-index{
 	display: flex;
