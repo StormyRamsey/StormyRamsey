@@ -151,7 +151,8 @@ background-color: #df5555;
 }
 
 .social-icons{
-	margin-top: 220px;
+	margin-top: 260px;
+	height: 100px;
 }
 
 .contact-social{
@@ -214,7 +215,7 @@ a:hover >.wImg{
 @media only screen and (max-width: 860px) {
 
 }
-@media (max-width: 600px) {
+@media only screen and (max-width: 600px) {
 
 #body-index{
 display: flex;
