@@ -130,8 +130,6 @@ background-color: #c93434;
 	display: flex;
 	flex-direction: column;
 	margin: auto;
-	margin-bottom: 450px;
-	height: 300px;
 }
 .cont-about{
 	display: flex;
@@ -151,7 +149,7 @@ background-color: #c93434;
 }
 
 .contact-social{
-	margin-top:100px;
+	margin-top: 400px;
 }
 
 .social{
