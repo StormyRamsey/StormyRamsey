@@ -217,6 +217,10 @@ a:hover >.wImg{
 }
 @media only screen and (max-width: 600px) {
 
+body{
+	max-height: 100%;
+	font-size: 1em;
+}
 #body-index{
 display: flex;
 flex-direction: column;
@@ -248,7 +252,10 @@ flex-direction: column;
 
 /* Smartphones (landscape) ----------- */
 @media only screen and (min-width : 321px) {
-
+	body{
+		max-height: 100%;
+		font-size: 1em;
+	}
 	#body-index{
 	display: flex;
 	flex-direction: column;
@@ -280,11 +287,14 @@ flex-direction: column;
 
 /* Smartphones (portrait) ----------- */
 @media only screen and (max-width : 320px) {
-
+	body{
+		max-height: 100%;
+		font-size: 1em;
+	}
 	#body-index{
 	display: flex;
 	flex-direction: column;
-	
+
 	}
 	.part-c{
 		order: 1;
