@@ -218,6 +218,11 @@ a:hover >.wImg{
 @media only screen and (max-width: 1024px) {}
 @media only screen and (max-width: 850px) {
 
+	html{
+	height: 100%;
+	margin: 0;
+	}
+
 	body{
 		max-height: 100%;
 	}
@@ -262,6 +267,11 @@ a:hover >.wImg{
 		}
 }
 @media only screen and (max-width: 600px){
+
+	html{
+	height: 100%;
+	margin: 0;
+	}
 
 body{
 	max-height: 100%;
@@ -308,6 +318,10 @@ flex-direction: column;
 }
 
 @media only screen and (max-width : 525px) {
+	html{
+	height: 100%;
+	margin: 0;
+	}
 
 	body{
 		max-height: 100%;
