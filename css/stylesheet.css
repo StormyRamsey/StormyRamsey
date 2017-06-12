@@ -150,11 +150,9 @@ background-color: #c93434;
 }
 
 .social-icons{
-<<<<<<< HEAD
+
 	margin-top: 230px;
-=======
-	margin-top: 450px;
->>>>>>> 329a2bce1ebc832837e6c8209ab566eb403a3519
+
 }
 
 .contact-social{
@@ -217,7 +215,7 @@ a:hover >.wImg{
 /*___________________________________________*/
 =======
 // working through the responsive issues
->>>>>>> 329a2bce1ebc832837e6c8209ab566eb403a3519
+
 @media only screen and (max-width: 1350px) {}
 @media only screen and (max-width: 1200px) {}
 @media only screen and (max-width: 1024px) {}
