@@ -221,6 +221,8 @@ a:hover >.wImg{
 	html{
 	height: 100%;
 	margin: 0;
+	overflow-x: hidden;
+	overflow-y: hidden;
 	}
 
 	body{
@@ -271,6 +273,8 @@ a:hover >.wImg{
 	html{
 	height: 100%;
 	margin: 0;
+	overflow-x: hidden;
+	overflow-y: hidden;
 	}
 
 body{
@@ -321,6 +325,8 @@ flex-direction: column;
 	html{
 	height: 100%;
 	margin: 0;
+	overflow-x: hidden;
+	overflow-y: hidden;
 	}
 
 	body{
@@ -369,4 +375,3 @@ flex-direction: column;
 	.part-a{
 		display: none;
 		}
-	}
